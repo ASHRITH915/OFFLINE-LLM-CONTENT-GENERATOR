@@ -3,12 +3,12 @@ The Offline LLM Content Generator is a GPU-accelerated AI-based tool that enable
 
 ## Features
 
-- 🚀 GPU-accelerated content generation
-- 🎤 Speech-to-text input capability using Vosk
-- 📊 Interactive visualizations of content metrics
-- ⚙️ Adaptable configuration for different GPU capabilities
-- 💻 Low VRAM mode for 4GB GPUs (GTX 1650, RTX 3050, etc.)
-- 📝 Multiple blog styles: Technical, Professional, Casual, Academic, Creative
+- GPU-accelerated content generation
+- Speech-to-text input capability using Vosk
+- Interactive visualizations of content metrics
+- Adaptable configuration for different GPU capabilities
+- Low VRAM mode for 4GB GPUs (GTX 1650, RTX 3050, etc.)
+- Multiple blog styles: Technical, Professional, Casual, Academic, Creative
 
 ## Requirements
 
