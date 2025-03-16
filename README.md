@@ -25,7 +25,8 @@ The Offline LLM Content Generator is a GPU-accelerated AI-based tool that enable
 ```bash
 # Clone the repository
 git clone https://github.com/ASHRITH915OFFLINE-LLM-CONTENT-GENERATOR.git
-cd gpu-llm-content-generator
+cd optimised-llm.py
+
 
 # Create and activate a virtual environment (recommended)
 python -m venv venv
@@ -45,7 +46,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-streamlit run optimized-gpu-llm.py
+streamlit run optimized-llm.py
 ```
 
 Navigate to the provided URL (usually http://localhost:8501) in your web browser.
