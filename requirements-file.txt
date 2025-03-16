@@ -1,0 +1,8 @@
+streamlit>=1.26.0
+torch>=2.0.0
+vosk>=0.3.45
+sounddevice>=0.4.6
+langchain>=0.0.267
+ctransformers>=0.2.27
+pandas>=2.0.0
+plotly>=5.16.0
