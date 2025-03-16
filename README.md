@@ -24,9 +24,7 @@ The Offline LLM Content Generator is a GPU-accelerated AI-based tool that enable
 
 ```bash
 # Clone the repository
-git clone https://github.com/ASHRITH915OFFLINE-LLM-CONTENT-GENERATOR.git
-cd optimised-llm.py
-
+git clone https://github.com/ASHRITH915/OFFLINE-LLM-CONTENT-GENERATOR.git
 
 # Create and activate a virtual environment (recommended)
 python -m venv venv
