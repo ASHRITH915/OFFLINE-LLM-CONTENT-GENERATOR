@@ -57,7 +57,7 @@ You'll need to download these model files and place them in the project director
    - `llama-2-7b-chat.ggmlv3.q4_K_M.bin` (smaller, for low VRAM)
    - `llama-2-7b-chat.ggmlv3.q8_0.bin` (higher quality)
 Note: 
-   - if PC is capable of handling Larger LLM's (chechk the compatibility on google) then download the latest model (apparently Llama 3.3) or any preference of your and change the filename and path the code.
+   - if PC is capable of handling Larger LLM's (check the compatibility on google) then download the latest model (apparently Llama 3.3) or any preference of your and change the filename and path the code.
      
 2. Vosk speech recognition model:
    - `vosk-model-small-en-us-0.15` directory
